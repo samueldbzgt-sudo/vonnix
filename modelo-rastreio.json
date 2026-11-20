@@ -1,0 +1,26 @@
+[
+  {
+    "tracking_code": "",
+    "email": "",
+    "current_status": "",
+    "current_status_label": "",
+    "created_at": null,
+    "updated_at": null,
+    "next_attempt_date": null,
+    "milestones": [
+      {
+        "short": "",
+        "completed": false,
+        "isCurrent": false
+      }
+    ],
+    "timeline": [
+      {
+        "label": "",
+        "status": "",
+        "timestamp": "",
+        "isCurrent": false
+      }
+    ]
+  }
+]
